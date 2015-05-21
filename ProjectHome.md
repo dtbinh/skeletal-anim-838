@@ -1,0 +1,1 @@
+Skeletal animation code for CS838 Project 2.
